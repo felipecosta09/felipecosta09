@@ -4,7 +4,7 @@
 - :books: I’m currently learning NodeJS
 - :muscle: I’m looking to collaborate on an open-source project to help the community with security for coding/DevOps
 - 💬 Ask me about Cloud, DevOps, Security, and Video-Games :sparkling_heart:
-- :thought_balloon: This is my Blog blog.devsecguy.com 
+- :thought_balloon: This is my Blog https://blog.devsecguy.com 
 - :sound: I speak Brazilian Portuguese, English, and sometimes I like to embarrass myself with some Spanish :flushed:
 - 📫 How to reach me: You can come to Dubai to have a coffee/tea or reach me at felipe.costa09@outlook.com
 
