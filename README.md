@@ -1,9 +1,9 @@
 ### Hi there, my name is Felipe Costa 👋
 
 - 💻 I’m currently working on Cybersecurity and DevSecOps
-- :books: I’m currently learning Python 🐍
+- :books: I’m currently learning how to apply AI to security 🤖
 - :muscle: I’m looking to collaborate on an open-source project to help the community with security for coding/DevOps
-- 💬 Ask me about Cloud, DevOps, Security, and Video-Games :sparkling_heart:
+- 💬 Ask me about AI, Cloud, DevOps, Security, and Video-Games :sparkling_heart:
 - :thought_balloon: This is my Blog https://blog.devsecguy.com 
 - :sound: I speak Brazilian Portuguese, English, and sometimes I like to embarrass myself with some Spanish :flushed:
 
